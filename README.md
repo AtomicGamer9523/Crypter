@@ -1,2 +1,4 @@
 # Crypter
-An app that EN and DE crypts messages
+An app that **__en-__** and **__de- crypts__** messages.
+
+Limits: Windows only and requires newest python to be installed
